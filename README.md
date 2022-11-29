@@ -6,7 +6,7 @@ So here’s the best all-in-one open source cloud cookie recipe for the best all
 
 Contributing
 ============
-Have a secret ingredient or other ideas on how to make this recipe even tastier? Post them as GitHub issues and pull requests at https://github.com/aiven/cloud-cookie-recipe. 
+Have a secret ingredient or other ideas on how to make [this recipe](recipe.md) even tastier? Post them as GitHub issues and pull requests at https://github.com/aiven/cloud-cookie-recipe. 
 To report any possible vulnerabilities or other serious issues please see our [security](SECURITY.md) policy.
 
 License
