@@ -2,7 +2,7 @@ Aiven Cloud Cookie Recipe
 =========================
 At Aiven, we only want to deliver the most delicious cookies that perfectly enhance your experience of our cloud data platform.
 
-So here’s the best all-in-one open source cloud cookie recipe for the best all-in-one open source cloud data platform.
+So here’s the best all-in-one [open source cloud cookie recipe](recipe.md) for the best all-in-one open source cloud data platform.
 
 Contributing
 ============
