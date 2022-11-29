@@ -10,6 +10,4 @@ Have a secret ingredient or other ideas on how to make [this recipe](recipe.md) 
 
 License
 ============
-cloud-cookie-recipe is licensed under the Apache license, version 2.0. Full license text is available in the [LICENSE](LICENSE) file.
-
-Please note that the project explicitly does not require a CLA (Contributor License Agreement) from its contributors.
+cloud-cookie-recipe is licensed under the Attribution-NonCommercial-ShareAlike 4.0 International license. Full license text is available in the [LICENSE](LICENSE) file.
