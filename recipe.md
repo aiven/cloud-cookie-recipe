@@ -35,7 +35,7 @@ Makes approx. 18 cookies
 
 5. Add the flour in three stages and beat until combined.
 
-6. Flow in the cranberries.
+6. Stir in the cranberries.
 
 7. Drop large spoonfuls of dough onto a cookie sheet lined with baking paper.
 
